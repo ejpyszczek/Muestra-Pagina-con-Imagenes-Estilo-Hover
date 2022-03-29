@@ -1,4 +1,4 @@
-# "uestra Pagina Huerta Organica con Imagenes EstiMlo Hover
+# "Muestra Pagina Huerta Organica con Imagenes EstiMlo Hover
 
 Descripcion Imagenes con estilo hover en HTML y CSS
 
